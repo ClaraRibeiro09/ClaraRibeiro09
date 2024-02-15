@@ -1,6 +1,6 @@
 ### Olá, eu sou a Clara!
 
-- 🔭 Estudo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará
+- 🔭 Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará
 - 🌱 Aprendendo Java e JavaScript
 - 😄 Pronomes: Ela / Dela
   
