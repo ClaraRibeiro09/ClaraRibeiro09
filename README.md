@@ -19,8 +19,6 @@
   <img align="center" alt="Clara-HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Clara-CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align= "center" alt="Clara-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align= "center" alt="Clara-JS" height="45" width="55" src="https://www.google.com/imgres?q=imagem%20do%20figma&imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FhoVBnPBRehmXsCqESLXRH2E3OTxklkwKZlb1psn7imm0VUSobn2nevS9RRFWb9GM4-o&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.figma.mirror%26hl%3Dpt&docid=COyJ2GG0nA19jM&tbnid=9NFHzwzyzG9ygM&vet=12ahUKEwjP__6_qeCMAxVpr5UCHch5LP8QM3oECBcQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjP__6_qeCMAxVpr5UCHch5LP8QM3oECBcQAA" />
-  
 
 ## 
 
