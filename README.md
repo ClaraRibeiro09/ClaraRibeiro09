@@ -1,9 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
 ## Olá, eu sou a Clara!
 
 - 🔭 Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará
-- 🌱 Aprendendo Java e JavaScript
 - 😄 Pronomes: Ela / Dela
   
 ##
