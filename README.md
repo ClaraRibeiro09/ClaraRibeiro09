@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
-## Olá, eu sou a Clara!
+## Oioi, eu sou a Clara🎀!
 
 - 🔭 Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará
 - 😄 Pronomes: Ela / Dela
@@ -23,7 +23,6 @@
 
 ## 
 
-  <a target="_blank" href="mailto:mariaclara141207@gmail.com"> <img height="30" width="120" alt="Email-Gustav" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-        badge&logo=gmail&logoColor=white"/></a>
   <a target="_blank" href="https://www.instagram.com/clarinharibeirosz/"> <img height="30" width="120" alt="Instagram-Gustavo" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
   
 
